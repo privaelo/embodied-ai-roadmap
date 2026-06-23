@@ -2,7 +2,8 @@
 My documented learning journey through Robotics and AI.
 
 A non-exhaustive list of my resources:
-- [LeRobot -- State-of-the-art machine learning for real-world robotics](https://huggingface.co/lerobot)
-- [Awesome-Embodied-AI](https://github.com/wadeKeith/Awesome-Embodied-AI)
-- [SMART-LLM: Smart Multi-Agent Robot Task Planning using Large Language Models](https://github.com/SMARTlab-Purdue/SMART-LLM)
-- [GenAI4AD -- Generative AI for Autonomous Driving](https://github.com/taco-group/GenAI4AD)
+- [LeRobot](https://huggingface.co/lerobot) -- -- State-of-the-art machine learning for real-world robotics
+- [Awesome-Embodied-AI](https://github.com/wadeKeith/Awesome-Embodied-AI) -- Curated embodied AI list: surveys, VLA models, datasets, simulators, humanoids, robot learning, and safety resources.
+- [SMART-LLM](https://github.com/SMARTlab-Purdue/SMART-LLM) -- Smart Multi-Agent Robot Task Planning using Large Language Models
+- [GenAI4AD](https://github.com/taco-group/GenAI4AD) -- Generative AI for Autonomous Driving
+- [PythonRobotics](https://atsushisakai.github.io/PythonRobotics/) -- Python sample codes and textbook for robotics algorithms.
